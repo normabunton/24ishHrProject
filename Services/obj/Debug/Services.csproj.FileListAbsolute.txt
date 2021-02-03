@@ -14,3 +14,19 @@ C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\24hrishAssignment\
 C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\24hrishAssignment\24ishHourAssignment\Services\obj\Debug\Services.csproj.CopyComplete
 C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\24hrishAssignment\24ishHourAssignment\Services\obj\Debug\Services.dll
 C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\24hrishAssignment\24ishHourAssignment\Services\obj\Debug\Services.pdb
+C:\ElevenFiftyProjects\2.BlueBadge\24ishHrProject\Services\bin\Debug\Services.dll.config
+C:\ElevenFiftyProjects\2.BlueBadge\24ishHrProject\Services\bin\Debug\Services.dll
+C:\ElevenFiftyProjects\2.BlueBadge\24ishHrProject\Services\bin\Debug\Services.pdb
+C:\ElevenFiftyProjects\2.BlueBadge\24ishHrProject\Services\bin\Debug\EntityFramework.dll
+C:\ElevenFiftyProjects\2.BlueBadge\24ishHrProject\Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\ElevenFiftyProjects\2.BlueBadge\24ishHrProject\Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\ElevenFiftyProjects\2.BlueBadge\24ishHrProject\Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\ElevenFiftyProjects\2.BlueBadge\24ishHrProject\Services\bin\Debug\EntityFramework.xml
+C:\ElevenFiftyProjects\2.BlueBadge\24ishHrProject\Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\ElevenFiftyProjects\2.BlueBadge\24ishHrProject\Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\ElevenFiftyProjects\2.BlueBadge\24ishHrProject\Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\ElevenFiftyProjects\2.BlueBadge\24ishHrProject\Services\obj\Debug\Services.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\2.BlueBadge\24ishHrProject\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\2.BlueBadge\24ishHrProject\Services\obj\Debug\Services.csproj.CopyComplete
+C:\ElevenFiftyProjects\2.BlueBadge\24ishHrProject\Services\obj\Debug\Services.dll
+C:\ElevenFiftyProjects\2.BlueBadge\24ishHrProject\Services\obj\Debug\Services.pdb
