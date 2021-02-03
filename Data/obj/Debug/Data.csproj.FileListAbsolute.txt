@@ -33,3 +33,38 @@ C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\24hrishAssignment\
 C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\24hrishAssignment\24ishHourAssignment\Data\obj\Debug\Data.csproj.CopyComplete
 C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\24hrishAssignment\24ishHourAssignment\Data\obj\Debug\Data.dll
 C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\24hrishAssignment\24ishHourAssignment\Data\obj\Debug\Data.pdb
+C:\ElevenFiftyProjects\DotNetProjects\24ishHrProject\Data\bin\Debug\Data.dll.config
+C:\ElevenFiftyProjects\DotNetProjects\24ishHrProject\Data\bin\Debug\Data.dll
+C:\ElevenFiftyProjects\DotNetProjects\24ishHrProject\Data\bin\Debug\Data.pdb
+C:\ElevenFiftyProjects\DotNetProjects\24ishHrProject\Data\bin\Debug\EntityFramework.dll
+C:\ElevenFiftyProjects\DotNetProjects\24ishHrProject\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\ElevenFiftyProjects\DotNetProjects\24ishHrProject\Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\ElevenFiftyProjects\DotNetProjects\24ishHrProject\Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\ElevenFiftyProjects\DotNetProjects\24ishHrProject\Data\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\ElevenFiftyProjects\DotNetProjects\24ishHrProject\Data\bin\Debug\Microsoft.Owin.dll
+C:\ElevenFiftyProjects\DotNetProjects\24ishHrProject\Data\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\ElevenFiftyProjects\DotNetProjects\24ishHrProject\Data\bin\Debug\Microsoft.Owin.Security.dll
+C:\ElevenFiftyProjects\DotNetProjects\24ishHrProject\Data\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\ElevenFiftyProjects\DotNetProjects\24ishHrProject\Data\bin\Debug\Newtonsoft.Json.dll
+C:\ElevenFiftyProjects\DotNetProjects\24ishHrProject\Data\bin\Debug\Owin.dll
+C:\ElevenFiftyProjects\DotNetProjects\24ishHrProject\Data\bin\Debug\System.Net.Http.Formatting.dll
+C:\ElevenFiftyProjects\DotNetProjects\24ishHrProject\Data\bin\Debug\System.Web.Http.dll
+C:\ElevenFiftyProjects\DotNetProjects\24ishHrProject\Data\bin\Debug\System.Web.Http.Owin.dll
+C:\ElevenFiftyProjects\DotNetProjects\24ishHrProject\Data\bin\Debug\EntityFramework.xml
+C:\ElevenFiftyProjects\DotNetProjects\24ishHrProject\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\ElevenFiftyProjects\DotNetProjects\24ishHrProject\Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\ElevenFiftyProjects\DotNetProjects\24ishHrProject\Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\ElevenFiftyProjects\DotNetProjects\24ishHrProject\Data\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\ElevenFiftyProjects\DotNetProjects\24ishHrProject\Data\bin\Debug\Microsoft.Owin.xml
+C:\ElevenFiftyProjects\DotNetProjects\24ishHrProject\Data\bin\Debug\Microsoft.Owin.Security.xml
+C:\ElevenFiftyProjects\DotNetProjects\24ishHrProject\Data\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\ElevenFiftyProjects\DotNetProjects\24ishHrProject\Data\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\ElevenFiftyProjects\DotNetProjects\24ishHrProject\Data\bin\Debug\Newtonsoft.Json.xml
+C:\ElevenFiftyProjects\DotNetProjects\24ishHrProject\Data\bin\Debug\System.Net.Http.Formatting.xml
+C:\ElevenFiftyProjects\DotNetProjects\24ishHrProject\Data\bin\Debug\System.Web.Http.xml
+C:\ElevenFiftyProjects\DotNetProjects\24ishHrProject\Data\bin\Debug\System.Web.Http.Owin.xml
+C:\ElevenFiftyProjects\DotNetProjects\24ishHrProject\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetProjects\24ishHrProject\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\24ishHrProject\Data\obj\Debug\Data.csproj.CopyComplete
+C:\ElevenFiftyProjects\DotNetProjects\24ishHrProject\Data\obj\Debug\Data.dll
+C:\ElevenFiftyProjects\DotNetProjects\24ishHrProject\Data\obj\Debug\Data.pdb
