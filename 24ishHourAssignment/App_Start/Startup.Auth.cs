@@ -10,6 +10,7 @@ using Microsoft.Owin.Security.OAuth;
 using Owin;
 using _24ishHourAssignment.Providers;
 using _24ishHourAssignment.Models;
+using Data;
 
 namespace _24ishHourAssignment
 {
