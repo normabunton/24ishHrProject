@@ -35,7 +35,7 @@ namespace Data
 
 
         }
-        public DbSet<SocMed> SocMed { get; set; }
+        public DbSet<Post> SocMed { get; set; }
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
             modelBuilder
