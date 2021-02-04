@@ -1,0 +1,32 @@
+C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\24hrishAssignment\24ishHourAssignment\Models\bin\Debug\Models.dll.config
+C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\24hrishAssignment\24ishHourAssignment\Models\bin\Debug\Models.dll
+C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\24hrishAssignment\24ishHourAssignment\Models\bin\Debug\Models.pdb
+C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\24hrishAssignment\24ishHourAssignment\Models\bin\Debug\EntityFramework.dll
+C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\24hrishAssignment\24ishHourAssignment\Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\24hrishAssignment\24ishHourAssignment\Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\24hrishAssignment\24ishHourAssignment\Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\24hrishAssignment\24ishHourAssignment\Models\bin\Debug\EntityFramework.xml
+C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\24hrishAssignment\24ishHourAssignment\Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\24hrishAssignment\24ishHourAssignment\Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\24hrishAssignment\24ishHourAssignment\Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\24hrishAssignment\24ishHourAssignment\Models\obj\Debug\Models.csprojAssemblyReference.cache
+C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\24hrishAssignment\24ishHourAssignment\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\24hrishAssignment\24ishHourAssignment\Models\obj\Debug\Models.csproj.CopyComplete
+C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\24hrishAssignment\24ishHourAssignment\Models\obj\Debug\Models.dll
+C:\Users\te_nj\OneDrive\Desktop\EFA Projects C# Visual Studio\24hrishAssignment\24ishHourAssignment\Models\obj\Debug\Models.pdb
+C:\ElevenFiftyProjects\2.BlueBadge\24ishHrProject\Models\bin\Debug\Models.dll.config
+C:\ElevenFiftyProjects\2.BlueBadge\24ishHrProject\Models\bin\Debug\Models.dll
+C:\ElevenFiftyProjects\2.BlueBadge\24ishHrProject\Models\bin\Debug\Models.pdb
+C:\ElevenFiftyProjects\2.BlueBadge\24ishHrProject\Models\bin\Debug\EntityFramework.dll
+C:\ElevenFiftyProjects\2.BlueBadge\24ishHrProject\Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\ElevenFiftyProjects\2.BlueBadge\24ishHrProject\Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\ElevenFiftyProjects\2.BlueBadge\24ishHrProject\Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\ElevenFiftyProjects\2.BlueBadge\24ishHrProject\Models\bin\Debug\EntityFramework.xml
+C:\ElevenFiftyProjects\2.BlueBadge\24ishHrProject\Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\ElevenFiftyProjects\2.BlueBadge\24ishHrProject\Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\ElevenFiftyProjects\2.BlueBadge\24ishHrProject\Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\ElevenFiftyProjects\2.BlueBadge\24ishHrProject\Models\obj\Debug\Models.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\2.BlueBadge\24ishHrProject\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\2.BlueBadge\24ishHrProject\Models\obj\Debug\Models.csproj.CopyComplete
+C:\ElevenFiftyProjects\2.BlueBadge\24ishHrProject\Models\obj\Debug\Models.dll
+C:\ElevenFiftyProjects\2.BlueBadge\24ishHrProject\Models\obj\Debug\Models.pdb

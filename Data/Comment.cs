@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Data
 {
-    public  class Comment
+    public class Comment
     {
         [Key]
         public int CommentId { get; set; }
@@ -19,8 +19,9 @@ namespace Data
         [Required]
         public Guid User { get; set; }
 
-        [ForeignKey (nameof(Post))]
+        [ForeignKey(nameof(Post))]
         public int PostId { get; set; }
+        public virtual Post Post { get; set;}
 
         public virtual List<Reply> Reply { get; set; }
 
