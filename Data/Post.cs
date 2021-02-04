@@ -19,11 +19,8 @@ namespace Data
         [Required]
         public virtual List<Comment> Comment { get; set; }
 
-<<<<<<< HEAD:Data/SocMed.cs
-=======
         [Required]
         public Guid User { get; set; }
 
->>>>>>> 9bb5a2b44fd1419c50dbde27c60580fdc75b04ee:Data/Post.cs
     }
 }

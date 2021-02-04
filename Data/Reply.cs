@@ -21,9 +21,11 @@ namespace Data
 
         [ForeignKey(nameof(Comment))]
         public int CommentId { get; set; }
+        public virtual Comment Comment { get; set; }
 
         [ForeignKey(nameof(Post))]
 
         public int PostId { get; set; }
+        public virtual Post Post { get; set; }
     }
 }

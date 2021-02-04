@@ -210,7 +210,6 @@ C:\ElevenFiftyProjects\2.BlueBadge\24ishHrProject\24ishHourAssignment\bin\System
 C:\ElevenFiftyProjects\2.BlueBadge\24ishHrProject\24ishHourAssignment\bin\System.Web.WebPages.Razor.dll
 C:\ElevenFiftyProjects\2.BlueBadge\24ishHrProject\24ishHourAssignment\bin\WebGrease.dll
 C:\ElevenFiftyProjects\2.BlueBadge\24ishHrProject\24ishHourAssignment\bin\Data.pdb
-C:\ElevenFiftyProjects\2.BlueBadge\24ishHrProject\24ishHourAssignment\bin\Data.dll.config
 C:\ElevenFiftyProjects\2.BlueBadge\24ishHrProject\24ishHourAssignment\bin\Models.pdb
 C:\ElevenFiftyProjects\2.BlueBadge\24ishHrProject\24ishHourAssignment\bin\Models.dll.config
 C:\ElevenFiftyProjects\2.BlueBadge\24ishHrProject\24ishHourAssignment\bin\Services.pdb
@@ -248,3 +247,4 @@ C:\ElevenFiftyProjects\2.BlueBadge\24ishHrProject\24ishHourAssignment\obj\Debug\
 C:\ElevenFiftyProjects\2.BlueBadge\24ishHrProject\24ishHourAssignment\obj\Debug\24ishHourAssignment.csproj.CopyComplete
 C:\ElevenFiftyProjects\2.BlueBadge\24ishHrProject\24ishHourAssignment\obj\Debug\24ishHourAssignment.dll
 C:\ElevenFiftyProjects\2.BlueBadge\24ishHrProject\24ishHourAssignment\obj\Debug\24ishHourAssignment.pdb
+C:\ElevenFiftyProjects\2.BlueBadge\24ishHrProject\24ishHourAssignment\bin\Data.dll.config
