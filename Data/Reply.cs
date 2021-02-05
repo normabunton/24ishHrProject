@@ -21,9 +21,13 @@ namespace Data
 
         [ForeignKey(nameof(Comment))]
         public int CommentId { get; set; }
+        public virtual Comment Comment { get; set; }
 
-        [ForeignKey(nameof(Post))]
+        //Removed below foreignkey. Got an error in postman that wouldn't let me do anything because due to the FK for Post in Reply. The post already lives within the FK for the Comment. - CJ
 
-        public int PostId { get; set; }
+        //[ForeignKey(nameof(Post))]
+
+        //public int PostId { get; set; }
+        //public virtual Post Post { get; set; }
     }
 }
