@@ -21,6 +21,5 @@ namespace Data
 
         [Required]
         public Guid User { get; set; }
-
     }
 }
