@@ -35,7 +35,12 @@ namespace Data
 
 
         }
-        public DbSet<SocMed> SocMed { get; set; }
+        public DbSet<Post> Post { get; set; }
+
+        public DbSet<Comment> Comment { get; set; }
+
+        public DbSet<Reply> Reply { get; set; }
+
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
             modelBuilder
