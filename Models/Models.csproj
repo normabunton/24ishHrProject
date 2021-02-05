@@ -57,8 +57,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <Compile Include="PostCreate.cs" />
     <Compile Include="PostRead.cs" />
+=======
+    <Compile Include="CommentCreate.cs" />
+>>>>>>> 04e85952beb0ad52e1618462b89cbfe06d1186ee
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
