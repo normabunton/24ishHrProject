@@ -30,3 +30,9 @@ C:\ElevenFiftyProjects\2.BlueBadge\24ishHrProject\Services\obj\Debug\Services.cs
 C:\ElevenFiftyProjects\2.BlueBadge\24ishHrProject\Services\obj\Debug\Services.csproj.CopyComplete
 C:\ElevenFiftyProjects\2.BlueBadge\24ishHrProject\Services\obj\Debug\Services.dll
 C:\ElevenFiftyProjects\2.BlueBadge\24ishHrProject\Services\obj\Debug\Services.pdb
+C:\ElevenFiftyProjects\2.BlueBadge\24ishHrProject\Services\bin\Debug\Data.dll
+C:\ElevenFiftyProjects\2.BlueBadge\24ishHrProject\Services\bin\Debug\Models.dll
+C:\ElevenFiftyProjects\2.BlueBadge\24ishHrProject\Services\bin\Debug\Data.pdb
+C:\ElevenFiftyProjects\2.BlueBadge\24ishHrProject\Services\bin\Debug\Data.dll.config
+C:\ElevenFiftyProjects\2.BlueBadge\24ishHrProject\Services\bin\Debug\Models.pdb
+C:\ElevenFiftyProjects\2.BlueBadge\24ishHrProject\Services\bin\Debug\Models.dll.config
