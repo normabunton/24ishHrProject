@@ -60,6 +60,7 @@
     <Compile Include="PostCreate.cs" />
     <Compile Include="PostRead.cs" />
     <Compile Include="CommentCreate.cs" />
+    <Compile Include="CommentListItem.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
