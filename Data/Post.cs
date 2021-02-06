@@ -16,7 +16,7 @@ namespace Data
         public string  PostTitle { get; set; }
         [Required]
         public string PostText { get; set; }
-        [Required]
+        
         public virtual List<Comment> Comment { get; set; }
 
         [Required]

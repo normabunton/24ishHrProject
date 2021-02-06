@@ -30,7 +30,7 @@ namespace Services
             using (var ctx = new ApplicationDbContext())
             {
                 ctx.Post.Add(entity);
-                return ctx.SaveChanges() == 1;
+                return ctx.SaveChanges() >= 1;
             }
         }
 
