@@ -11,12 +11,13 @@ namespace Services
     public class CommentService
     {
         private readonly Guid _userId;
-        private readonly int _postId;
+        //private readonly int _postId;
+        //private readonly ApplicationDbContext _context = new ApplicationDbContext();
 
-        public CommentService(Guid userId, int postId)
+        public CommentService(Guid userId)
         {
             _userId = userId;
-            _postId = postId;
+            //_postId = postId;
         }
 
         public bool CreateComment(CommentCreate model)
@@ -26,7 +27,7 @@ namespace Services
                 {
                     User = _userId,
                     CommentText = model.Content,
-                    PostId = _postId,
+                    PostId = model.PostId,
                 };
             using (var ctx = new ApplicationDbContext())
             {
@@ -48,8 +49,8 @@ namespace Services
                         new CommentListItem
                         {
                             CommentId = e.CommentId,
-                            Content = e.CommentText
-
+                            Content = e.CommentText,
+                            PostId = e.PostId,
                         }
                         );
                 return query.ToArray();
