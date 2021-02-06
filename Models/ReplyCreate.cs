@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Data;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
@@ -10,8 +11,9 @@ namespace Models
     public class ReplyCreate
     {
         [Required]
-        public int ReplyId { get; set; }
-
         public string ReplyContent { get; set; }
+
+        public int CommentId { get; set; }
+        public virtual Comment COmment { get; set; }
     }
 }

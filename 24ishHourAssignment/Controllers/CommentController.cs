@@ -30,6 +30,8 @@ namespace _24ishHourAssignment.Controllers
             return Ok(comments);
         }
 
+        //[HttpPost]
+        //[Route("api/Transaction/PostCommentByPostId/{id}")]
         public IHttpActionResult Post(CommentCreate comment) //removed "[FromUri] int id, "
         {
             if (!ModelState.IsValid)
@@ -41,6 +43,8 @@ namespace _24ishHourAssignment.Controllers
 
             if (!service.CreateComment(comment))
                 return InternalServerError();
+
+            //_context.Comment.Add(comment);
 
             return Ok();
         }

@@ -12,7 +12,7 @@ namespace Models
     {
         public int CommentId { get; set; }
         public string Content { get; set; }
-        [ForeignKey(nameof(Post))]
+       
         public int PostId { get; set; }
         public virtual Post Post { get; set; }
     }
