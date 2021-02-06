@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Data
 {
-    class ReplyServices
+    public class ReplyServices
     {
 
         public bool CreateReply(Reply model)
