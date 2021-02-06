@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Data;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,8 +9,9 @@ namespace Models
 {
     public class ReplyListItem
     {
-        public int ReplyId { get; set; }
-
         public string ReplyContent { get; set; }
+
+        public int CommentId { get; set; }
+        public virtual Comment Comment { get; set; }
     }
 }

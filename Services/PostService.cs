@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Data.Entity;
 
 namespace Services
 {
@@ -48,7 +49,9 @@ namespace Services
                                 {
                                     PostId = e.PostId,
                                     PostTitle = e.PostTitle,
-                                    PostText = e.PostText
+                                    PostText = e.PostText,
+                                   //Comment = e.Comment
+                                    
                                 }
                         );
 

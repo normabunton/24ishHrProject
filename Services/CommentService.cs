@@ -44,7 +44,7 @@ namespace Services
                 var query =
                     ctx
                     .Comment
-                    .Include(e=>e.Post)
+                    //.Include(e=>e.Post)
                     .Where(e => e.User == _userId)
                     .Select(
                         e =>
@@ -53,7 +53,7 @@ namespace Services
                             CommentId = e.CommentId,
                             Content = e.CommentText,
                             PostId = e.PostId,
-                           
+                           //Post=e.Post
                         }
                         );
                 return query.ToArray();
