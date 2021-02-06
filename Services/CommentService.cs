@@ -5,32 +5,33 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Data.Entity;
 
 namespace Services
 {
     public class CommentService
     {
         private readonly Guid _userId;
-        //private readonly int _postId;
-        //private readonly ApplicationDbContext _context = new ApplicationDbContext();
 
         public CommentService(Guid userId)
         {
             _userId = userId;
-            //_postId = postId;
         }
 
         public bool CreateComment(CommentCreate model)
         {
+
+            using (var ctx = new ApplicationDbContext())
+            {
+                var post = ctx.Post.SingleOrDefault(p => p.PostId == model.PostId);
             var entity =
                 new Comment()
                 {
                     User = _userId,
                     CommentText = model.Content,
                     PostId = model.PostId,
+                   // Post = post //NEED TO LINK TO FK/VIRTUAL??
                 };
-            using (var ctx = new ApplicationDbContext())
-            {
                 ctx.Comment.Add(entity);
                 return ctx.SaveChanges() == 1;
             }
@@ -43,6 +44,7 @@ namespace Services
                 var query =
                     ctx
                     .Comment
+                    .Include(e=>e.Post)
                     .Where(e => e.User == _userId)
                     .Select(
                         e =>
@@ -51,6 +53,7 @@ namespace Services
                             CommentId = e.CommentId,
                             Content = e.CommentText,
                             PostId = e.PostId,
+                           
                         }
                         );
                 return query.ToArray();
