@@ -8,7 +8,11 @@ namespace Data
 {
     public class ReplyServices
     {
-
+        private readonly Guid _userId;
+        public ReplyServices(Guid UserId)
+        {
+            _userId = UserId
+        }
         public bool CreateReply(Reply model)
         {
             var entity =
